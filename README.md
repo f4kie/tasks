@@ -13,7 +13,7 @@ O projeto é dividido em duas partes principais:
 - **Arquivos principais:**
   - `app.js`: Configura o servidor Express e as rotas.
   - `models/Task.js`: Define o modelo de dados para as tarefas.
-  - `routes/tasks.js`: Contém as rotas da API para operações com tarefas.
+  - `routes/tasks.js`: Contém as rotas da API para operações com tarefas
 
 ### Frontend (React)
 
